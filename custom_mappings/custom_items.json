@@ -1,0 +1,87 @@
+{
+  "format_version": 1,
+  "items": 
+  {
+    "minecraft:iron_sword": 
+    [
+      {
+        "name": "copper_sword",
+        "allow_offhand": true,
+        "icon": "copper_sword",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:iron_axe": 
+    [
+      {
+        "name": "copper_axe",
+        "allow_offhand": true,
+        "icon": "copper_axe",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:iron_pickaxe": 
+    [
+      {
+        "name": "copper_pickaxe",
+        "allow_offhand": true,
+        "icon": "copper_pickaxe",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:iron_shovel": 
+    [
+      {
+        "name": "copper_shovel",
+        "allow_offhand": true,
+        "icon": "copper_shovel",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:iron_hoe": 
+    [
+      {
+        "name": "copper_hoe",
+        "allow_offhand": true,
+        "icon": "copper_hoe",
+        "custom_model_data": 1
+      }
+    ],
+    "minecraft:leather_helmet": 
+    [
+      {
+        "name": "copper_helmet",
+        "allow_offhand": true,
+        "icon": "copper_helmet",
+        "custom_model_data": 2000
+      }
+    ],
+    "minecraft:leather_chestplate": 
+    [
+      {
+        "name": "copper_chestplate",
+        "allow_offhand": true,
+        "icon": "copper_chestplate",
+        "custom_model_data": 2000
+      }
+    ],
+    "minecraft:leather_leggings": 
+    [
+      {
+        "name": "copper_leggings",
+        "allow_offhand": true,
+        "icon": "copper_leggings",
+        "custom_model_data": 2000
+      }
+    ],
+    "minecraft:leather_boots": 
+    [
+      {
+        "name": "copper_boots",
+        "allow_offhand": true,
+        "icon": "copper_boots",
+        "custom_model_data": 2000
+      }
+    ]
+  }
+}
