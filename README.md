@@ -1,0 +1,1 @@
+# geyser_resource_pack_template
