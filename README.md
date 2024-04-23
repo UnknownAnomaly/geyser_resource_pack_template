@@ -3,15 +3,15 @@
 
 How to use 
 
-1.Update manifest with 2 new generated UUID's from https://www.uuidgenerator.net/version4
+1. Drag custom_mappings folder into your Geyser plugin folder
+
+2. Update manifest with 2 new generated UUID's from https://www.uuidgenerator.net/version4
 
 Everything in manifest can be changed, nothing is improtant
 
 Things to be added
 
 • Oraxen and ItemsAdder config that goes with this
-
-• Mapping file
 
 • More template variations (items,models,etc.) for thing that people seem to have trouble with
 
