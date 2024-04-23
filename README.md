@@ -7,7 +7,7 @@ How to use
 
 2. Update manifest with 2 new generated UUID's from https://www.uuidgenerator.net/version4
 
-Everything in manifest can be changed, nothing is improtant
+Description and Name in manifest can also be changed
 
 Things to be added
 
